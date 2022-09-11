@@ -1,0 +1,188 @@
+div#firsthalf {
+    height: 700px;
+    width: 700px;
+    background: rgb(9, 121, 14);
+    background: linear-gradient(82deg, rgba(9, 121, 14, 1) 0%, rgba(9, 121, 14, 1) 50%, rgba(53, 161, 58, 1) 100%);
+    float: left;
+    border: 2px solid aliceblue;
+}
+
+
+div#GoalParent {
+    height: 400px;
+    width: 200px;
+    background-color: rgb(22, 109, 0);
+    float: left;
+    margin-top: 143px;
+    border: 2px solid aliceblue;
+    position: fixed;
+}
+
+
+div#Maingaol {
+    height: 250px;
+    width: 100px;
+    background-color: rgb(22, 109, 0);
+    float: left;
+    margin-top: 69px;
+    border: 2px solid aliceblue;
+
+}
+
+
+div#maincircle {
+    width: 90px;
+    height: 190px;
+    background-color: rgba(9, 121, 14, 1) 0%;
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+    border: 2px solid aliceblue;
+    float: right;
+    margin-top: 230px;
+    margin-right: -2px;
+
+}
+
+div#Goalhalfcricle {
+
+    width: 90px;
+    height: 190px;
+    background-color: rgb(22, 109, 0);
+    border-top-right-radius: 110px;
+    border-bottom-right-radius: 110px;
+    border: 2px solid aliceblue;
+    float: left;
+    margin-left: 203px;
+    margin-top: 250px;
+}
+
+div#Smallmiddlecircle {
+
+    width: 10px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 200px;
+    border-bottom-left-radius: 200px;
+    border: 2px solid aliceblue;
+    float: right;
+    margin-top: 80px;
+    margin-right: -2px
+}
+
+div#GoalParentCircle {
+    height: 18px;
+    width: 18px;
+    background-color: rgb(255, 253, 253);
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 185px;
+    margin-left: 30px;
+}
+
+
+
+div#secondhalf {
+    height: 700px;
+    width: 700px;
+    background: rgb(9, 121, 14);
+    background: linear-gradient(274deg, rgba(9, 121, 14, 1) 0%, rgba(9, 121, 14, 1) 50%, rgba(53, 161, 58, 1) 100%);
+    float: left;
+    border: 2px solid aliceblue;
+}
+
+
+
+div#GoalParent1 {
+    height: 400px;
+    width: 200px;
+    background-color: rgb(22, 109, 0);
+    float: right;
+    margin-top: 143px;
+    border: 2px solid aliceblue;
+}
+
+
+div#Maingaol1 {
+    height: 250px;
+    width: 100px;
+    background-color: rgb(22, 109, 0);
+    float: right;
+    margin-top: 69px;
+    border: 2px solid aliceblue;
+}
+
+
+div#maincircle1 {
+    width: 90px;
+    height: 190px;
+    background-color: rgba(9, 121, 14, 1) 0%;
+    border-top-right-radius: 110px;
+    border-bottom-right-radius: 110px;
+    border: 2px solid aliceblue;
+    float: left;
+    margin-top: 230px;
+    margin-left: -2px;
+    position: fixed;
+
+}
+
+div#Goalhalfcricle1 {
+
+    width: 90px;
+    height: 190px;
+    background-color: rgb(22, 109, 0);
+    border-top-left-radius: 110px;
+    border-bottom-left-radius: 110px;
+    border: 2px solid aliceblue;
+    float: left;
+    margin-left: 402px;
+    margin-top: 250px;
+}
+
+div#Smallmiddlecircle1 {
+
+    width: 10px;
+    height: 25px;
+    background-color: rgb(255, 255, 255);
+    border-top-right-radius: 200px;
+    border-bottom-right-radius: 200px;
+    border: 2px solid aliceblue;
+    float: left;
+    margin-top: 80px;
+    margin-left: -2px;
+
+}
+
+div#GoalParentCircle1 {
+    height: 18px;
+    width: 18px;
+    background-color: rgb(255, 253, 253);
+    border-radius: 50%;
+    display: inline-block;
+    margin-top: 185px;
+    margin-left: 40px;
+}
+
+div#border1{
+    border: 2px solid red;
+    height: 705px;
+    width: 1410px;
+}
+
+div#border2{
+    border: 2px solid rgb(98, 0, 255);
+    height: 708px;
+    width: 1414px;
+}
+
+div#border3{
+    border: 2px solid rgb(208, 255, 0);
+    height: 713px;
+    width: 1418px;
+}
+
+div#border4{
+    border: 3px solid rgb(240, 76, 0);
+    height: 718px;
+    width: 1422px;
+}
